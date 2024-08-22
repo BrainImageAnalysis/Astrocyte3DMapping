@@ -81,7 +81,7 @@ try
 
 
 
-    img_ref = ['/disk/k_raid/usr/skibbe-h/kato/allen_avg/P56_Atlas_highres_template.nii'];
+    img_ref = ['./allen_avg/P56_Atlas_highres_template.nii'];
     interp_type = 'Linear';
     %%
 
